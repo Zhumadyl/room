@@ -148,7 +148,9 @@ hr {
   justify-content: space-around;
   flex-wrap: wrap;
 }
-
+.brands{
+  margin-top: 200px;
+}
 .brands .container {
   width: 70%;
 }
@@ -182,6 +184,7 @@ hr {
 }
 
 .fame {
+  margin-top:800px ;
   background-image: url(../images/Frame.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -566,9 +569,6 @@ footer .container {
   padding-right: 53px;
 }
 
-/* .mailing__bottom {
-  position: relative;
-} */
 .checkbox {
   position: relative;
 }
@@ -625,24 +625,6 @@ footer .container {
   transition: .5s;
 }
 
-/* .mailing__bottom p {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 11px;
-  line-height: 13px;
-  letter-spacing: 2.4px;
-  text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
-  margin-bottom: 50px;
-} */
-/* input[type="checkbox"] {
-  width: 26px;
-  height: 28px;
-  background-color: #2b2b2b;
-  position: absolute;
-  top: 0;
-  left: -40px;
-} */
 .mailing__bottom a {
   font-style: normal;
   font-weight: 400;
